@@ -80,7 +80,7 @@ La solución se encuentra en el archivo [main.py](main.py).
 
 ## Test
 
-Para probar el código se puede ejecutar el archivo [test.py](test.py) que se encuentra en la carpeta [test](test).
+Para probar el código se puede ejecutar el archivo [test.py](test.py).
 
 ```bash
 pytest -v --no-header test.py
