@@ -123,7 +123,7 @@ Salida:
 
 ```bash
 >> 5387 0772 9033 3852 -> False
->> 5387 0772 9033 3852 -> True
+>> 5387 0772 9033 3855 -> True
 ```
 
 Validamos un número de tarjeta de crédito con el algoritmo de Luhn N ingresando un conjunto de caracteres válidos y un número de tarjeta de crédito sin su último dígito.
