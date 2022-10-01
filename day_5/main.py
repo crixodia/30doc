@@ -22,7 +22,7 @@ def is_valid_card(number: str) -> bool:
     return sum(list(A) + B) % 10 == 0
 
 
-def luhn_check_n(s: str, symbols: list = SYMBOLS) -> int:
+def luhn_check_n(s: str, symbols: str = SYMBOLS) -> int:
     # Generación de caracter de comprobación de Luhn
     N = len(symbols)
     s = s.strip().replace(" ", "")
@@ -38,12 +38,12 @@ def luhn_check_n(s: str, symbols: list = SYMBOLS) -> int:
     return 0 if check == N else check
 
 
-def luhn_encode_n(s: str, symbols: list = SYMBOLS) -> str:
+def luhn_encode_n(s: str, symbols: str = SYMBOLS) -> str:
     # Creación de string con carácter de comprobación al Final
     return s + symbols[luhn_check_n(s, symbols)]
 
 
-def luhn_n(s: str, symbols: list = SYMBOLS) -> bool:
+def luhn_n(s: str, symbols: str = SYMBOLS) -> bool:
     # Validación generalizada de Luhn (Luhn N)
     N = len(symbols)
     s = s.strip().replace(" ", "")
