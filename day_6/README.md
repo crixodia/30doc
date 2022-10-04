@@ -1,4 +1,4 @@
-# Día 7: Bingo
+# Día 6: Bingo
 
 Un poco de contexto:
 
