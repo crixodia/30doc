@@ -4,7 +4,7 @@ Hola, el día de voy volveremos a las bases de la materia de Estructura de Datos
 Para esto, vamos a construir una de las estructuras de datos más clásicas y que será la base para algunos retos que vienen de aquí en adelante.
 Vamos a construir una Lista enlazada, recordemos que una lista enlazada tiene la siguiente forma:
 
-[!linked_list.png](linked_list.png)
+![linked_list.png](linked_list.png)
 
 En este caso la lista no está ordenada, eso lo dejaremos para más adelante 😂.
 
