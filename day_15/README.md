@@ -37,21 +37,3 @@ def hill(text, key, symb):
     C = np.mod(C, len(symb)).flatten()
     return np.dot(K, T)
 ```
-
-Para desencriptar el mensaje, debemos obtener la matriz inversa de la matriz de encriptación, para ello usamos la función `inv` de numpy.
-
-```python
-def unhill(C, key, symb):
-    n = int(np.sqrt(len(key)))
-
-    K = map(lambda c: symb.index(c), key)
-    K = np.array(list(K)).reshape(n, n)
-    K = np.linalg.inv(K)  # Inversa
-
-    M = np.dot(K, C)
-    M = np.mod(M.round(5), 26)
-    M = M.flatten().astype(int)
-
-    M = "".join(map(lambda c: symb[c], M.tolist()))
-    return M
-```
