@@ -1,4 +1,4 @@
-# Día 17: Librerías
+# Día 17: ECC
 
 Para el día de hoy vamos a utilizar algunas librerías en el le guane que estás programando, para conocer el funcionamiento de los algoritmos de cifrado.
 
