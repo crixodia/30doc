@@ -1,17 +1,4 @@
-from random import shuffle, seed
-
-from os import system, name
-
-
-def clear():
-    # for windows
-    if name == "nt":
-        _ = system("cls")
-
-    # for mac and linux
-    else:
-        _ = system("clear")
-
+from random import shuffle
 
 # Objeto Tarjeta de Jugador
 class Card(object):
