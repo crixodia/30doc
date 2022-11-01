@@ -15,3 +15,7 @@ Git es un software de control de versiones, vamos a simular algunos comandos de 
 1. Programa bloques o funciones que nos permitan ejecutar estos comandos. Puedes hacer uso de los comandos ya creados en los días anteriores.
 2. Consulta sobre git e implementa un comando nuevo, explícanos el funcionamiento en git y el funcionamiento en tu código.
 3. Opcional: si manejas git sabrás que estos comandos al ejecutarlos muestran una salida, de ser posible, implementa esta salida cada que ejecutes tu comando.
+
+## Video Explicativo
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@crixodia/video/7160252479433608453" data-video-id="7160252479433608453" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@crixodia" href="https://www.tiktok.com/@crixodia?refer=embed">@crixodia</a> Día 10 <a title="30daysofcode" target="_blank" href="https://www.tiktok.com/tag/30daysofcode?refer=embed">#30DaysOfCode</a> <a title="30daysofcodebyaeis" target="_blank" href="https://www.tiktok.com/tag/30daysofcodebyaeis?refer=embed">#30daysofcodebyaeis</a> <a title="python" target="_blank" href="https://www.tiktok.com/tag/python?refer=embed">#Python</a> <a target="_blank" title="♬ sonido original - Gabriel Bastidas" href="https://www.tiktok.com/music/sonido-original-7160252512481217285?refer=embed">♬ sonido original - Gabriel Bastidas</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>

@@ -111,7 +111,7 @@ def unshift(self, val) -> object:
     self.node = self.ListNode(val, self.node)
 ```
 
-Además como bonus, implementamos el método __str__ para poder imprimir la lista enlazada:
+Además como bonus, implementamos el método **str** para poder imprimir la lista enlazada:
 
 ```python
 def __str__(self):
@@ -125,3 +125,7 @@ def __str__(self):
 ```
 
 La solución completa se encuentra en el archivo [main.py](main.py).
+
+## Video Explicativo
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@crixodia/video/7151226834556964101" data-video-id="7151226834556964101" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@crixodia" href="https://www.tiktok.com/@crixodia?refer=embed">@crixodia</a> Día 8 <a title="30daysofcode" target="_blank" href="https://www.tiktok.com/tag/30daysofcode?refer=embed">#30DaysOfCode</a> <a title="30daysofcodebyaeis" target="_blank" href="https://www.tiktok.com/tag/30daysofcodebyaeis?refer=embed">#30DaysOfCodeByAEIS</a> <a title="python" target="_blank" href="https://www.tiktok.com/tag/python?refer=embed">#Python</a> <a target="_blank" title="♬ original sound - Gabriel Bastidas" href="https://www.tiktok.com/music/original-sound-7151226871039216389?refer=embed">♬ original sound - Gabriel Bastidas</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
