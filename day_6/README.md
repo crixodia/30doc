@@ -35,4 +35,4 @@ La solución se encuentra en el archivo [main.py](main.py)
 
 ## Video Explicativo
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@crixodia/video/7150524540446117125" data-video-id="7150524540446117125" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@crixodia" href="https://www.tiktok.com/@crixodia?refer=embed">@crixodia</a> Día 6 <a title="30daysofcode" target="_blank" href="https://www.tiktok.com/tag/30daysofcode?refer=embed">#30daysofcode</a> <a title="30daysofcodebyaeis" target="_blank" href="https://www.tiktok.com/tag/30daysofcodebyaeis?refer=embed">#30daysofcodebyaeis</a> <a target="_blank" title="♬ Dreams - Joakim Karud" href="https://www.tiktok.com/music/Dreams-6846871984245049345?refer=embed">♬ Dreams - Joakim Karud</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+[TikTok](https://www.tiktok.com/@crixodia/video/7150524540446117125)
