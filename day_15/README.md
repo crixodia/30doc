@@ -40,5 +40,5 @@ def hill(text, key, symb):
 
 ## Otras soluciones
 
-- [@el_de_men_cial](https://www.instagram.com/p/CjuYlZ-O2pM/)
-- [@jamenajamena173](https://www.instagram.com/p/CjtyGTXNeX9/)
+- [@el_de_men_cial](https://www.instagram.com/p/Cj4rfdwOh-3/)
+- [@jamenajamena173](https://www.instagram.com/p/Cj11nxOtn8x/)
