@@ -26,3 +26,8 @@ def unhill(C, key, symb):
     M = "".join(map(lambda c: symb[c], M.tolist()))
     return M
 ```
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/Cj4rktrutnU/)
+- [@jamenajamena173](https://www.instagram.com/p/Cj11nxOtn8x/)

@@ -22,3 +22,8 @@ pytest .\test.py -v --no-header
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7148267636978175237)
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/Ci_wcfEsSl1/)
+- [@anthojosue05](https://www.instagram.com/p/CjCP8MoMEs2/)

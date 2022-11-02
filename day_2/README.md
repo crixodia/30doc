@@ -28,3 +28,8 @@ pytest .\test.py -v --no-header
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7148312688291007749)
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CjBqHuJrEZ0/)
+- [@anthojosue05](https://www.instagram.com/p/CjCWS-RMvGs/)

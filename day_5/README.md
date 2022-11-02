@@ -145,3 +145,8 @@ is valid: True
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7149413565659614469)
+
+## Otras soluciones
+
+- [@cristo.dev](https://www.instagram.com/p/CjMOGfJOULD/)
+- [@jamenajamena173](https://www.instagram.com/p/CjJaXXEO_wn/)

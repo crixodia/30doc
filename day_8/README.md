@@ -129,3 +129,8 @@ La solución completa se encuentra en el archivo [main.py](main.py).
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7151226834556964101)
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CjWEfBSu0Nd/)
+- [@jamenajamena173](https://www.instagram.com/p/CjW8-TBOJfR/)

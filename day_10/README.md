@@ -19,3 +19,8 @@ Git es un software de control de versiones, vamos a simular algunos comandos de 
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7160252479433608453)
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/Cjij8XurbpY/)
+- [@jamenajamena173](https://www.instagram.com/p/Cjdwu9TOEF6/)

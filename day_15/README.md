@@ -37,3 +37,8 @@ def hill(text, key, symb):
     C = np.mod(C, len(symb)).flatten()
     return np.dot(K, T)
 ```
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CjuYlZ-O2pM/)
+- [@jamenajamena173](https://www.instagram.com/p/CjtyGTXNeX9/)

@@ -68,3 +68,8 @@ def pares(L: LinkedList):
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7151539847562333446)
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CjYvuk2O__h/)
+- [@jamenajamena173](https://www.instagram.com/p/CjY_oAouNSD/)

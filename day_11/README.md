@@ -20,3 +20,8 @@ $$34*5*7+$$
 ¿Qué deberías presentar?
 
 - Programa un bloque o función que reciba una expresión como: $[(3*4)+(5*7)]$ y lo transforme a NPI.  
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CjmtqjdumkB/)
+- [@jamenajamena173](https://www.instagram.com/p/CjleokZuM_8/)

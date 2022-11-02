@@ -16,3 +16,7 @@ Dependiendo del último atributo, el programa debe mostrar lo siguiente para tod
 Donde X puede ser Coladita Morada o Dulces de Halloween, dependiendo que seleccionó como atributo.
 
 **Nota:** Tienes puntos extras si presentas de forma creativa y que sea fácil de entender.
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CkMcSKuLvGJ/)

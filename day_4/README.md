@@ -37,3 +37,8 @@ def date_div(date1: str, date2: str, n: int) -> datetime:
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7149021110917401861)
+
+## Otras soluciones
+
+- [@cristo.dev](https://www.instagram.com/p/CjGVxmiuWvj/)
+- [@jamenajamena173](https://www.instagram.com/p/CjHfm_WsLTz/)

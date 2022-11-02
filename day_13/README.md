@@ -22,3 +22,8 @@ def cesar(text: str, key: int, decrypt=False) -> str:
     cipher = map(lambda x: chr(ord(x) + factor * key), text)
     return "".join(cipher)
 ```
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CjqyqEtOuP1/)
+- [@jamenajamena173](https://www.instagram.com/p/CjqpOd0Om2B/)

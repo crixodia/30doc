@@ -36,3 +36,8 @@ La solución se encuentra en el archivo [main.py](main.py)
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7150524540446117125)
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CjRolqEuq2E/)
+- [@cristo.dev](https://www.instagram.com/p/CkHgh7uuNQY/)

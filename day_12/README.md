@@ -9,7 +9,7 @@ Los objetivos de aplicar este proceso de traduce en:
 - Mejorar la organización de toda la red.
 - Mayor seguridad y control de tráfico.
 
-Pongamos un ejemplo, dado la máscara 255.255.255.224 podemos tener la cantidad de 14 host. 
+Pongamos un ejemplo, dado la máscara 255.255.255.224 podemos tener la cantidad de 14 host.
 
 ¿Qué deberías presentar?
 
@@ -18,3 +18,8 @@ Pongamos un ejemplo, dado la máscara 255.255.255.224 podemos tener la cantidad 
 - Programa un bloque o función que, a partir de la información anterior nos indique a que clase corresponde según la máscara dada o calculada.
 
 **Nota:** No puedes utilizar las funciones de transformación de binario/decimal
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/Cjo_AlIsySI/)
+- [@jamenajamena173](https://www.instagram.com/p/CjoLOToOi2L/)

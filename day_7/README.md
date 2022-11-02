@@ -44,3 +44,8 @@ def acronimo(s: str) -> str:
 ## Video Explicativo
 
 [TikTok](https://www.tiktok.com/@crixodia/video/7150816055017950469)
+
+## Otras soluciones
+
+- [@el_de_men_cial](https://www.instagram.com/p/CjUaFkMs0Cv/)
+- [@jamenajamena173](https://www.instagram.com/p/CjUFkCLOGJP/)
